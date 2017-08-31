@@ -1,0 +1,11 @@
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\bin\Debug\NorthwndTest.exe.config
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\bin\Debug\NorthwndTest.exe
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\bin\Debug\NorthwndTest.pdb
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\bin\Debug\EntityFramework.dll
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\bin\Debug\EntityFramework.xml
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\obj\Debug\NorthwndTest.csprojResolveAssemblyReference.cache
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\obj\Debug\NorthwndTest.csproj.CoreCompileInputs.cache
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\obj\Debug\NorthwndTest.exe
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\NorthwndTest\obj\Debug\NorthwndTest.pdb

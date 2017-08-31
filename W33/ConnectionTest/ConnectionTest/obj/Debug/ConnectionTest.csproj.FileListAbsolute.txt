@@ -1,0 +1,7 @@
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\ConnectionTest\bin\Debug\ConnectionTest.exe.config
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\ConnectionTest\bin\Debug\ConnectionTest.exe
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\ConnectionTest\bin\Debug\ConnectionTest.pdb
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\ConnectionTest\obj\Debug\ConnectionTest.csprojResolveAssemblyReference.cache
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\ConnectionTest\obj\Debug\ConnectionTest.exe
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\ConnectionTest\obj\Debug\ConnectionTest.pdb
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\ConnectionTest\obj\Debug\ConnectionTest.csproj.CoreCompileInputs.cache

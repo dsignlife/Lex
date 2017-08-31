@@ -1,0 +1,11 @@
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\bin\Debug\QueryTest.exe.config
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\bin\Debug\QueryTest.exe
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\bin\Debug\QueryTest.pdb
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\obj\Debug\QueryTest.csprojResolveAssemblyReference.cache
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\obj\Debug\QueryTest.csproj.CoreCompileInputs.cache
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\obj\Debug\QueryTest.exe
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\obj\Debug\QueryTest.pdb
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\bin\Debug\EntityFramework.dll
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\bin\Debug\EntityFramework.xml
+C:\Users\TomzPC\Source\Workspaces\LEXICON\W33\ConnectionTest\QueryTest\bin\Debug\EntityFramework.SqlServer.xml
