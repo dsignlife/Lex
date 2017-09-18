@@ -39,7 +39,9 @@ namespace ConnectionTest
         public static SqlConnection GetConnect()
         {
             string cs =
-              @"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=NORTHWND;Data Source = localhost\SQLEXPRESS";
+             // @"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=NORTHWND;Data Source = localhost\SQLEXPRESS";
+             @"Network Library=DBMSSOCN; Initial Catalog=NORTHWND;
+              Data Source = dsignlife.asuscomm.com,1433; User ID= sa; Password= tomz;";
             SqlConnection connection = new SqlConnection(cs);
             connection.Open();
             WriteLine("Connecting established, intiating Query ");

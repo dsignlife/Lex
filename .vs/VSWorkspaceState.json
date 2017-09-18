@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\W33",
+    "\\W33\\ConnectionTest",
+    "\\W33\\ConnectionTest\\ConnectionTest",
+    "\\W34",
+    "\\W36"
   ],
+  "SelectedNode": "\\W33\\ConnectionTest\\ConnectionTest.sln",
   "PreviewInSolutionExplorer": false
 }
